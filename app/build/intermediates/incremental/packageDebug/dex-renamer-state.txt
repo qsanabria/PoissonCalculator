@@ -1,0 +1,7 @@
+#Sat Sep 02 19:30:48 CEST 2017
+base.0=C\:\\Users\\usuario\\AndroidStudioProjects\\PoissonCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07c49df2d0b0bc4c78704b5aefec69ddcb56718c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\usuario\\AndroidStudioProjects\\PoissonCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_92b5c94e7e551f587a86e43b06f5bac71fd61f1a\\classes.dex
+base.1=C\:\\Users\\usuario\\AndroidStudioProjects\\PoissonCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_92b5c94e7e551f587a86e43b06f5bac71fd61f1a
+file.0=C\:\\Users\\usuario\\AndroidStudioProjects\\PoissonCalculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_07c49df2d0b0bc4c78704b5aefec69ddcb56718c\\classes.dex
