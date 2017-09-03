@@ -1,0 +1,120 @@
+<resources>
+    <!--Main app-->
+    <string name="app_name">Poisson Calculator</string>
+    <string name="str_en" >English</string>
+    <string name="str_es" >Spanish</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+    <!--Titles-->
+    <string name="titleInit">Last 10 Results:</string>
+    <string name="titleResults">Exact Results:</string>
+    <string name="title1x2">Single and Double Chances:</string>
+    <string name="titleOverUnder" translatable="false">Over/Under:</string>
+    <!--Labels-->
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+    <string name="draw">Draw</string>
+    <string name="chances1x2" translatable="false">1X2</string>
+    <string name="doubleChance">Double Chance</string>
+    <string name="over" translatable="false">Over</string>
+    <string name="under" translatable="false">Under</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="odds">Odds(£)</string>
+    <string name="probability">Probability(%)</string>
+    <string name="result">Result</string>
+    <string name="separator" translatable="false">-----</string>
+    <string name="titleLanguage">Select Language:</string>
+    <!--Menu-->
+    <string name="language">Language</string>
+    <!--Buttons-->
+    <string name="button_save">Save</string>
+    <string name="button_no_save">Don´t save</string>
+    <string name="button_cancel">Cancel</string>
+    <!--Dialogs-->
+
+    <!--Results-->
+    <string name="result1" translatable="false">1</string>
+    <string name="resultX" translatable="false">X</string>
+    <string name="result2" translatable="false">2</string>
+    <string name="resultDouble12" translatable="false">12</string>
+    <string name="resultDouble1X" translatable="false">1X</string>
+    <string name="resultDoubleX2" translatable="false">X2</string>
+    <string name="over0.5" translatable="false">+0.5</string>
+    <string name="over1.5" translatable="false">+1.5</string>
+    <string name="over2.5" translatable="false">+2.5</string>
+    <string name="over3.5" translatable="false">+3.5</string>
+    <string name="over4.5" translatable="false">+4.5</string>
+    <string name="over5.5" translatable="false">+5.5</string>
+    <string name="under0.5" translatable="false">-0.5</string>
+    <string name="under1.5" translatable="false">-1.5</string>
+    <string name="under2.5" translatable="false">-2.5</string>
+    <string name="under3.5" translatable="false">-3.5</string>
+    <string name="under4.5" translatable="false">-4.5</string>
+    <string name="under5.5" translatable="false">-5.5</string>
+    <string name="result10" translatable="false">1-0</string>
+    <string name="result20" translatable="false">2-0</string>
+    <string name="result21" translatable="false">2-1</string>
+    <string name="result30" translatable="false">3-0</string>
+    <string name="result31" translatable="false">3-1</string>
+    <string name="result32" translatable="false">3-2</string>
+    <string name="result40" translatable="false">4-0</string>
+    <string name="result41" translatable="false">4-1</string>
+    <string name="result42" translatable="false">4-2</string>
+    <string name="result43" translatable="false">4-3</string>
+    <string name="result50" translatable="false">5-0</string>
+    <string name="result51" translatable="false">5-1</string>
+    <string name="result52" translatable="false">5-2</string>
+    <string name="result53" translatable="false">5-3</string>
+    <string name="result54" translatable="false">5-4</string>
+    <string name="result60" translatable="false">6-0</string>
+    <string name="result61" translatable="false">6-1</string>
+    <string name="result62" translatable="false">6-2</string>
+    <string name="result63" translatable="false">6-3</string>
+    <string name="result64" translatable="false">6-4</string>
+    <string name="result65" translatable="false">6-5</string>
+    <string name="result70" translatable="false">7-0</string>
+    <string name="result71" translatable="false">7-1</string>
+    <string name="result72" translatable="false">7-2</string>
+    <string name="result73" translatable="false">7-3</string>
+    <string name="result74" translatable="false">7-4</string>
+    <string name="result75" translatable="false">7-5</string>
+    <string name="result76" translatable="false">7-6</string>
+    <string name="result00" translatable="false">0-0</string>
+    <string name="result11" translatable="false">1-1</string>
+    <string name="result22" translatable="false">2-2</string>
+    <string name="result33" translatable="false">3-3</string>
+    <string name="result44" translatable="false">4-4</string>
+    <string name="result55" translatable="false">5-5</string>
+    <string name="result66" translatable="false">6-6</string>
+    <string name="result77" translatable="false">7-7</string>
+    <string name="result01" translatable="false">0-1</string>
+    <string name="result02" translatable="false">0-2</string>
+    <string name="result12" translatable="false">1-2</string>
+    <string name="result03" translatable="false">0-3</string>
+    <string name="result13" translatable="false">1-3</string>
+    <string name="result23" translatable="false">2-3</string>
+    <string name="result04" translatable="false">0-4</string>
+    <string name="result14" translatable="false">1-4</string>
+    <string name="result24" translatable="false">2-4</string>
+    <string name="result34" translatable="false">3-4</string>
+    <string name="result05" translatable="false">0-5</string>
+    <string name="result15" translatable="false">1-5</string>
+    <string name="result25" translatable="false">2-5</string>
+    <string name="result35" translatable="false">3-5</string>
+    <string name="result45" translatable="false">4-5</string>
+    <string name="result06" translatable="false">0-6</string>
+    <string name="result16" translatable="false">1-6</string>
+    <string name="result26" translatable="false">2-6</string>
+    <string name="result36" translatable="false">3-6</string>
+    <string name="result46" translatable="false">4-6</string>
+    <string name="result56" translatable="false">5-6</string>
+    <string name="result07" translatable="false">0-7</string>
+    <string name="result17" translatable="false">1-7</string>
+    <string name="result27" translatable="false">2-7</string>
+    <string name="result37" translatable="false">3-7</string>
+    <string name="result47" translatable="false">4-7</string>
+    <string name="result57" translatable="false">5-7</string>
+    <string name="result67" translatable="false">6-7</string>
+</resources>

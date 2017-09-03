@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Poisson</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_no_save">No Guardar</string>
+    <string name="button_save">Guardar</string>
+    <string name="doubleChance">Doble Oportunidad</string>
+    <string name="draw">Empate</string>
+    <string name="odds">Cuotas(€)</string>
+    <string name="probability">Probabilidad(%)</string>
+    <string name="result">Resultado</string>
+    <string name="str_en">Inglés</string>
+    <string name="str_es">Español</string>
+    <string name="team1">Equipo 1</string>
+    <string name="team2">Equipo 2</string>
+    <string name="title1x2">Simple y Doble</string>
+    <string name="titleInit">Últimos 10 resultados:</string>
+    <string name="titleResults">Resultados Exactos</string>
+    <string name="language">Idioma</string>
+    <string name="titleLanguage">Selección de Idioma:</string>
+</resources>

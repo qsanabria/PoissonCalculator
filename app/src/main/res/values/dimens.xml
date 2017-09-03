@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="cornerCards">5dp</dimen>
+    <dimen name="textSizeH1">26dp</dimen>
+    <dimen name="textSizeH2">22dp</dimen>
+    <dimen name="marginCleaner">2dp</dimen>
+</resources>
