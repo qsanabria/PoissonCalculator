@@ -37,5 +37,6 @@
     <string name="team2">Equipo 2</string>
     <string name="title1x2">Simple y Doble</string>
     <string name="titleInit">Últimos 10 resultados:</string>
+    <string name="titleLanguage">Selección de Idioma:</string>
     <string name="titleResults">Resultados Exactos</string>
 </resources>

@@ -4,10 +4,5 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context=".MainActivity">
 
-    <item
-        android:id="@+id/menuLanguage"
-        android:title="@string/language"
-        app:showAsAction="never">
-    </item>
 
 </menu>
